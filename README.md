@@ -1,2 +1,2 @@
-# Kata-Cuenta-Bancaria
- Taller para Sofka U
+# Buenas Practicas
+ Taller para Sofka U / Kata-Cuenta-Bancaria
